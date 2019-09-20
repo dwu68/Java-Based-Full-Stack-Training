@@ -1,5 +1,5 @@
 
-<img align="left" src="../../markdown_imgs/logo_with_name.png" height = 60></img>
+<img align="left" src="../../markdown_imgs/logo_with_name.png" height = 60></img>
 <br>
 
 <br>
