@@ -88,6 +88,6 @@ Following are the few defects in the existing project and you are expected to fi
 1. User is able to view only a few category details, instead of all.
 2. User is unable to add all category details.
 3. Use is unable to delete the category name.
+<img align="left" src="../../markdown_imgs/footer.png" />
 
-<img align="left" src="../../markdown_imgs/footer.png"/>
 </div>
