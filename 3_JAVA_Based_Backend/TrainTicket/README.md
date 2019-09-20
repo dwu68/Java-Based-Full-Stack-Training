@@ -1,5 +1,5 @@
-<img align="left" src="../../markdown_imgs/logo_with_name.png" height = 60></img>
-<br>
+
+<img align="left" src="../../markdown_imgs/logo_with_name.png" height = 60></img><br>
 
 <br>
 <div>
@@ -53,7 +53,7 @@ Note:
 - The credit card number should be of exactly 16 digits. Month and year of Expiry should be valid (If credit card validation is successful, assume successful payment)
 - The file name for storing the generated ticket should be the PNR Number.
 - The Ticket details should be stored in a file as per below format. The passenger’s should written in ascending order based on name.
-<img align="left" src="markdown_imgs/1.png"></img>
+<img src="markdown_imgs/1.png"></img>
 <br>
 
 <h3>User Interface Requirements</h3>
@@ -69,7 +69,7 @@ Note:
 <br>
 <h3>Class Diagram</h3>
 Some of the classes which the application should consist are given below:
-<img align="left" src="markdown_imgs/2.png"></img>
+<img src="markdown_imgs/2.png"></img>
 
 <b>Class Ticket</b>
 
@@ -92,8 +92,9 @@ Some of the classes which the application should consist are given below:
 
 <br>
 <h3>Table Design and Script</h3>
-<img align="left" src="markdown_imgs/3.png"></img>
+<img src="markdown_imgs/3.png"></img>
 
 <b> * Execute the provided script “Trains_data.sql” to create tables and populate sample data </b>
-<img align="left" src="../../markdown_imgs/footer.png"/>
+
+<img align="left" src="../../markdown_imgs/footer.png"></img>
 </div>
