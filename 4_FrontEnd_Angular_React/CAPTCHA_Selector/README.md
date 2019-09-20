@@ -5,7 +5,6 @@
 
 <br>
 <div>
-    <img align="left" src="../../markdown_imgs/logo_round.png" height=70 />
     <h1>Create your own CAPTCHA Selector</h1>
 CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart. In other words, CAPTCHA determines whether the user is real or a spam robot. It is widely used on a variety of websites that want to verify that the user is not a robot. 
     <br>Two commonly used CAPTCHAs you might have seen:
